@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisWebApi", "RedisWebApi\RedisWebApi.csproj", "{77B9EF9E-15A2-4BBD-A7D5-FA897D89C47A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsSqlWebApi", "MsSqlWebApi\MsSqlWebApi.csproj", "{0AEA3826-B2C7-464C-8E9B-B0A98430D530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorClient", "BlazorClient\BlazorClient.csproj", "{4C6C298D-6797-4FFC-89CB-5C3106B3A2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{D1FE54DD-2070-4CC1-A26D-33A9D27BE77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B9EF9E-15A2-4BBD-A7D5-FA897D89C47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B9EF9E-15A2-4BBD-A7D5-FA897D89C47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B9EF9E-15A2-4BBD-A7D5-FA897D89C47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B9EF9E-15A2-4BBD-A7D5-FA897D89C47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEA3826-B2C7-464C-8E9B-B0A98430D530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEA3826-B2C7-464C-8E9B-B0A98430D530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEA3826-B2C7-464C-8E9B-B0A98430D530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEA3826-B2C7-464C-8E9B-B0A98430D530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C6C298D-6797-4FFC-89CB-5C3106B3A2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6C298D-6797-4FFC-89CB-5C3106B3A2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6C298D-6797-4FFC-89CB-5C3106B3A2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6C298D-6797-4FFC-89CB-5C3106B3A2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FE54DD-2070-4CC1-A26D-33A9D27BE77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FE54DD-2070-4CC1-A26D-33A9D27BE77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FE54DD-2070-4CC1-A26D-33A9D27BE77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FE54DD-2070-4CC1-A26D-33A9D27BE77E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
